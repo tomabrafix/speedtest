@@ -1,0 +1,7 @@
+# Contract values
+DN_MIN = 650
+DN_NRM = 800
+DN_MAX = 1000
+UP_MIN = 15
+UP_NRM = 35
+UP_MAX = 50
